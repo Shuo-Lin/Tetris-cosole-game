@@ -1,0 +1,16 @@
+﻿生成启动时间为 2017/5/5 22:29:09。
+     1>项目“C:\Users\dell\Documents\Visual Studio 2013\Projects\17.4.17 俄罗斯方块（参考）\17.4.17 俄罗斯方块（参考）\17.4.17 俄罗斯方块（参考）.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\华南理工\VS\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         F:\华南理工\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\dell\Documents\Visual Studio 2013\Projects\17.4.17 俄罗斯方块（参考）\Release\17.4.17 俄罗斯方块（参考）.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"F:\华南理工\VS\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\dell\Documents\Visual Studio 2013\Projects\17.4.17 俄罗斯方块（参考）\Release\17.4.17 俄罗斯方块（参考）.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\dell\Documents\Visual Studio 2013\Projects\17.4.17 俄罗斯方块（参考）\Release\17.4.17 俄罗斯方块（参考）.lib" /MACHINE:X86 /SAFESEH "Release\17.4.17 俄罗斯方块（参考）.res"
+         Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         17.4.17 俄罗斯方块（参考）.vcxproj -> C:\Users\dell\Documents\Visual Studio 2013\Projects\17.4.17 俄罗斯方块（参考）\Release\17.4.17 俄罗斯方块（参考）.exe
+     1>已完成生成项目“C:\Users\dell\Documents\Visual Studio 2013\Projects\17.4.17 俄罗斯方块（参考）\17.4.17 俄罗斯方块（参考）\17.4.17 俄罗斯方块（参考）.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.07
